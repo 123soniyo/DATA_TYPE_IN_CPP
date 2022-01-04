@@ -1,35 +1,35 @@
-// APNA COLLEGE
+// 
 
-// #include<iostream>
-// using namespace std;
+#include<iostream>
+using namespace std;
 
-// int main()
-// {
-//     int a; //declaration
-//     a = 12; //intialisation
+int main()
+{
+    int a; //declaration
+    a = 12; //intialisation
 
-//     cout<<"size of int"<<sizeof(a)<<endl;
+    cout<<"size of int"<<sizeof(a)<<endl;
 
-//     float b;
-//     cout<<"size of float"<<sizeof(b)<<endl;
+    float b;
+    cout<<"size of float"<<sizeof(b)<<endl;
 
-//     char c;
-//     cout<<"size of char"<<sizeof(c)<<endl;
+    char c;
+    cout<<"size of char"<<sizeof(c)<<endl;
 
-//     bool d;
-//     cout<<"size of bool"<<sizeof(d)<<endl;
+    bool d;
+    cout<<"size of bool"<<sizeof(d)<<endl;
 
-//     short int si;
-//     long int li;
-//     cout<<"size of short int"<<sizeof(si)<<endl;
-//     cout<<"size of long int"<<sizeof(li)<<endl;
+    short int si;
+    long int li;
+    cout<<"size of short int"<<sizeof(si)<<endl;
+    cout<<"size of long int"<<sizeof(li)<<endl;
      
     
-//     return 0;
-// }
+    return 0;
+}
 
 
-//HARRY
+
 #include<iostream>
 using namespace std;
 
